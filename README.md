@@ -1,5 +1,5 @@
 
-<img style="float:center;border-radius:50%;width:80px;padding:10px" src="me.jpg" />
+<img style="float:center;border-radius:50%;width:80px;padding:10px" src="assets/me.jpg" />
 
 # Markus Fantone
 `Software Developer, Tech Leader and Agilist`
@@ -38,3 +38,13 @@ With technical and management skills, I have evolved my career through positions
 |`AGILE MANAGEMENT`| `OFFICE – ADVANCED` |
 |`BACKEND DEVELOPMENT`| `POWER BI – MID` |
 |`FLUENT ENGLISH`| `VISUAL STUDIO - ADVANCED` |
+
+# Certifications
+
+- Professional Scrum Master I - PSM I ``SCRUM.ORG``
+- Kanban System Design - KMP I ``KANBAN UNIVERSITY``
+- SAFE 5 Agilist ``SCALED AGILE``
+- Professional Agile Coach Certified - PACC ``AGILE INSTITUTE BRASIL``
+- Enterprise Design Thinking Practitioner ``IBM``
+- Managment 3.0 Attendee ``M30``
+- Certified Lean Inception Facilitator - CLF ``CAROLI.ORG (2019/SEP AND 2020/NOV)``
